@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "pgm.h": "c",
+        "errno.h": "c",
+        "assert.h": "c"
+    }
+}
