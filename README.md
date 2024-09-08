@@ -1,3 +1,3 @@
-# Image_Processing_Project_Smoothing_EdgeDetection_Denoising_with_Non_Linear_Filters
+# Image Processing Project : Smoothing, EdgeDetection, and Denoising with Non Linear Filters
 
 This C-based image processing project focuses on implementing essential techniques for image enhancement and noise reduction using non-linear filters. It covers three fundamental aspects: smoothing, edge detection, and denoising. Smoothing algorithms like mean, median, and Gaussian filters are employed to reduce noise and produce a smoother appearance. Edge detection methods such as the Sobel operator and Canny edge detector are utilized to highlight object boundaries. Non-linear denoising filters, including the median filter and bilateral filter, are applied to effectively reduce noise while preserving image details.
